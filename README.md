@@ -1,3 +1,7 @@
+
+![image](https://github.com/hussainwali74/stunning-chat/assets/24194686/e845eae0-c88e-409d-9ca1-d9a5beba8915)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
